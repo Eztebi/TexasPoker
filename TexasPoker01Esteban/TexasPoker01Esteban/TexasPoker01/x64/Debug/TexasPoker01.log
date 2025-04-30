@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ALUMNOS\Desktop\TexasPoker01EstebanFinal\TexasPoker01Esteban\TexasPoker01\core\main.cpp(82,1): warning C4715: 'FlushCarta': no todas las rutas de acceso de control devuelven un valor
+  TexasPoker01.vcxproj -> C:\Users\ALUMNOS\Desktop\TexasPoker01EstebanFinal\TexasPoker01Esteban\x64\Debug\TexasPoker01.exe
